@@ -1,12 +1,8 @@
-## Hi there 👋
+<h1 align="center">ACSAI's Repositories</h1>
+<p align="center"><i>A group of repositories made by the students, for the students</i></p>
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## What are these repos about?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it). 
