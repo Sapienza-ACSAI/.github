@@ -5,7 +5,7 @@
 
 ## What are these repos about?
 
-The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it).
+The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it). The materials collected in the repos, for the time being, will only be notes from students, and **won't include any material given by the professors**. Once we will figure out how to manage that type of content, we'll post an update.
 
 ## Can I contribute somehow?
 
