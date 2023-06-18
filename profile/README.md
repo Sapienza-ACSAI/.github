@@ -5,4 +5,14 @@
 
 ## What are these repos about?
 
-The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it). 
+The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it).
+
+## Can I contribute somehow?
+
+Of course! Any help would be greatly appreciated. Just contact us (we will set up a way to reach us)!
+
+## Who is actually contributing?
+
+| Contributors |
+|---|
+| Archit Rastogi, Leonardo Biason |
