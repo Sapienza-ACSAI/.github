@@ -16,6 +16,6 @@ Of course! Any help would be greatly appreciated. Just contact us (we will set u
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/ArchitRastogi20"><img src="https://github.com/ArchitRastogi20.png" width="14%"><br><p style="font-size: 10px"><b>Archit Rastogi</b></p></a></td>
-    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"><br><p style="font-size: 10px"><b>Leonardo Biason*</b></p></a></td>
+    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"><br><p style="font-size: 10px"><b>Leonardo Biason</b></p></a></td>
   </tr>
 </table>
