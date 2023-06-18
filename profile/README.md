@@ -13,6 +13,9 @@ Of course! Any help would be greatly appreciated. Just contact us (we will set u
 
 ## Who is actually contributing?
 
-| Contributors |
-|---|
-| [Archit Rastogi](https://github.com/ArchitRastogi20), [Leonardo Biason](https://github.com/ElBi21) |
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/ArchitRastogi20"><img src="https://github.com/ArchitRastogi20.png" width="14%"><br><p style="font-size: 10px">**Archit Rastogi**</p></a></td>
+    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"><br><p style="font-size: 10px">**Leonardo Biason**</p></a></td>
+  </tr>
+</table>
