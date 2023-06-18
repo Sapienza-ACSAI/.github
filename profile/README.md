@@ -15,4 +15,4 @@ Of course! Any help would be greatly appreciated. Just contact us (we will set u
 
 | Contributors |
 |---|
-| Archit Rastogi, Leonardo Biason |
+| [Archit Rastogi](https://github.com/ArchitRastogi20), [Leonardo Biason](https://github.com/ElBi21) |
