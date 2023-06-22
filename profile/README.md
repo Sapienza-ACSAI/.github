@@ -1,11 +1,15 @@
 <h1 align="center">ACSAI's Repositories</h1>
 <p align="center"><i>A group of repositories made by the students, for the students</i></p>
-
+<div align="center">
+  <a class="link" href="https://www.facebook.com/AFSInterculturaRoma"><img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://www.facebook.com/AFSInterculturaRoma" /></a>
+</div>
 ---
 
 ## What are these repos about?
 
-The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it). The materials collected in the repos, for the time being, will only be notes from students, and **won't include any material given by the professors**. Once we will figure out how to manage that type of content, we'll post an update.
+The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course @ [Sapienza](https://www.uniroma1.it). The materials collected in the repos, for the time being, will only be notes from students, and **won't include any material given by the professors**. Once we will figure out how to manage that type of content, we'll post an update. Mind that this repository is not meant as a replacement for the course: this is only a collection of useful materials (like notes, solved exercises, etc...) that can be helpful while studying. Each course should be followed, as we don't encourage to study only from these materials, nor we aim to replace the work done by the professors.
+
+All the repos are under the `MIT License`: they can be forked and modified, with the only constraint of crediting this organization and the original repo. If you want to know how to contribute to this repo, below there is a section talking about it.
 
 ## Repositories syllabus
 
@@ -64,6 +68,48 @@ The idea behind this whole system of repositories is to make each repository ind
   <tr>
     <td align="center">Physics<br><sub><i>prof. Mendez</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Physics">Physics</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td rowspan="8"><b>2nd Year</b></td>
+    <td rowspan="4">Semester 1</td>
+    <td align="center">Calculus 2<br><sub><i>prof. Zabad</i></sub></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Calculus 2</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">Probability<br><sub><i>prof. Piccioni & prof. Silvestri</i></sub></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Probability</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">Systems and Networking U1&2<br><sub><i>prof. Tolomei & prof. Bartolini</i></sub></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Systems-And-Networking</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">Data Management and Analysis U1<br><sub><i>prof. Perelli</i></sub></td>
+    <td rowspan="2" align="center"><a href="https://github.com/Sapienza-ACSAI/">Data-Managment-And-Analysis</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Semester 2</td>
+    <td align="center">Data Managment and Analysis U2<br><sub><i>prof. Quattrociocchi</i></sub></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">Artificial Intelligence and Machine Learning U1&2<br><sub><i>prof. Di Ciccio & prof. Masi</i></sub></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">AI-And-ML</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">AI Lab: Computer Vision and NLP<br><sub><i>prof. Pannone</i></sub></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">AI-Lab</a></td>
+    <td align="center">N/A</td>
+  </tr>
+  <tr>
+    <td align="center">Statistics<br><sub><i>prof. Ranalli</i></sub></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Statistics</a></td>
     <td align="center">N/A</td>
   </tr>
 </table>
