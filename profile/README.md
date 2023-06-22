@@ -2,6 +2,7 @@
 <p align="center"><i>A group of repositories made by the students, for the students</i></p>
 <div align="center">
   <a class="link" href="https://t.me/appliedCS_AI"><img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/appliedCS_AI"/></a>
+  <a class="link" href="https://discord.gg/vekTABg4Aj"><img src="https://img.shields.io/badge/-discord-5e57ca?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/vekTABg4Aj"/></a>
 </div>
 
 ---
