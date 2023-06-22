@@ -1,8 +1,9 @@
 <h1 align="center">ACSAI's Repositories</h1>
 <p align="center"><i>A group of repositories made by the students, for the students</i></p>
 <div align="center">
-  <a class="link" href="https://www.facebook.com/AFSInterculturaRoma"><img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://www.facebook.com/AFSInterculturaRoma" /></a>
+  <a class="link" href="https://t.me/appliedCS_AI"><img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/appliedCS_AI"/></a>
 </div>
+
 ---
 
 ## What are these repos about?
