@@ -118,7 +118,7 @@ The idea behind this whole system of repositories is to make each repository ind
 
 ## Can I contribute somehow?
 
-Of course! Any help would be greatly appreciated. Just contact us (we will set up a way to reach us)!
+Of course! Any help would be greatly appreciated. Just contact us on Discord or Telegram (links are on the buttons on top of the page)!
 
 ## Who is actually contributing?
 
