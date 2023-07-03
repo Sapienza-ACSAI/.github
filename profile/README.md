@@ -86,7 +86,7 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td align="center">Systems and Networking U1&2<br><sub><i>prof. Tolomei & prof. Bartolini</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Systems-And-Networking</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Systems-And-Networking-U1">Systems-And-Networking</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
