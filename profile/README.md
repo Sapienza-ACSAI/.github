@@ -27,10 +27,10 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td rowspan="9"><b>1st Year</b></td>
-    <td rowspan="4">Semester 1</td>
+    <td rowspan="4"><sub>Semester 1</sub></td>
     <td align="center">Computer Architecture<br><sub><i>prof. De Sensi</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture">Computer-Architecture</a></td>
-    <td align="center">N/A</td>
+    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Linear Algebra<br><sub><i>prof. Zabad</i></sub></td>
@@ -48,7 +48,7 @@ The idea behind this whole system of repositories is to make each repository ind
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td rowspan="5">Semester 2</td>
+    <td rowspan="5"><sub>Semester 2</sub></td>
     <td align="center">Calculus (Part 2)<br><sub><i>prof. Ansini</i></sub></td>
     <td align="center">N/A</td>
   </tr>
@@ -74,7 +74,7 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td rowspan="8"><b>2nd Year</b></td>
-    <td rowspan="4">Semester 1</td>
+    <td rowspan="4"><sub>Semester 1</sub></td>
     <td align="center">Calculus 2<br><sub><i>prof. Zabad</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Calculus 2</a></td>
     <td align="center">N/A</td>
@@ -87,7 +87,7 @@ The idea behind this whole system of repositories is to make each repository ind
   <tr>
     <td align="center">Systems and Networking U1&2<br><sub><i>prof. Tolomei & prof. Bartolini</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Systems-And-Networking-U1">Systems-And-Networking</a></td>
-    <td align="center">N/A</td>
+    <td align="center"><a href="https://github.com/dario-loi"><img src="https://github.com/dario-loi.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Data Management and Analysis U1<br><sub><i>prof. Perelli</i></sub></td>
@@ -95,7 +95,7 @@ The idea behind this whole system of repositories is to make each repository ind
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td rowspan="4">Semester 2</td>
+    <td rowspan="4"><sub>Semester 2</sub></td>
     <td align="center">Data Managment and Analysis U2<br><sub><i>prof. Quattrociocchi</i></sub></td>
     <td align="center">N/A</td>
   </tr>
@@ -124,8 +124,8 @@ Of course! Any help would be greatly appreciated. Just contact us on Discord or 
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/ArchitRastogi20"><img src="https://github.com/ArchitRastogi20.png" width="14%"><br><p style="font-size: 10px"><b>Archit Rastogi</b></p></a></td>
-    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"><br><p style="font-size: 10px"><b>Leonardo Biason</b></p></a></td>
-    <td align="center"><a href="https://github.com/dario-loi"><img src="https://github.com/dario-loi.png" width="14%"><br><p style="font-size: 10px"><b>Dario Loi</b></p></a></td>
+    <td align="center"><a href="https://github.com/ArchitRastogi20"><img src="https://github.com/ArchitRastogi20.png" width="19%"><br><p style="font-size: 10px"><b>Archit Rastogi</b></p></a></td>
+    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="19%"><br><p style="font-size: 10px"><b>Leonardo Biason</b></p></a></td>
+    <td align="center"><a href="https://github.com/dario-loi"><img src="https://github.com/dario-loi.png" width="19%"><br><p style="font-size: 10px"><b>Dario Loi</b></p></a></td>
   </tr>
 </table>
