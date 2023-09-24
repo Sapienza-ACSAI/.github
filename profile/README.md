@@ -43,7 +43,7 @@ The idea behind this whole system of repositories is to make each repository ind
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">Calculus (Part 1)<br><sub><i>prof. Ansini</i></sub></td>
+    <td align="center">Calculus (Part 1)<br><sub><i>prof. Birindelli</i></sub></td>
     <td align="center" rowspan="2"><a href="https://github.com/Sapienza-ACSAI/Calculus">Calculus</a></td>
     <td align="center">N/A</td>
   </tr>
@@ -80,7 +80,7 @@ The idea behind this whole system of repositories is to make each repository ind
     <td align="center">N/A</td>
   </tr>
   <tr>
-    <td align="center">Probability<br><sub><i>prof. Piccioni & prof. Silvestri</i></sub></td>
+    <td align="center">Probability<br><sub><i>prof. Bertini & prof. Silvestri</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/">Probability</a></td>
     <td align="center">N/A</td>
   </tr>
