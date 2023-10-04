@@ -34,7 +34,7 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td align="center">Linear Algebra<br><sub><i>prof. Zabad</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture">Linear-Algebra</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Linear-Algebra">Linear-Algebra</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
