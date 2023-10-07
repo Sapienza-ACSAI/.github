@@ -126,8 +126,10 @@ Of course! Any help would be greatly appreciated. Just contact us on Discord or 
   <tr>
     <td align="center"><a href="https://github.com/ArchitRastogi20"><img src="https://github.com/ArchitRastogi20.png" width="19%"><br><p style="font-size: 10px"><b>Archit Rastogi</b></p></a></td>
     <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="19%"><br><p style="font-size: 10px"><b>Leonardo Biason</b></p></a></td>
+    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="19%"><br><p style="font-size: 10px"><b>B. Nil Atabey</b></p></a></td>
     <td align="center"><a href="https://github.com/dario-loi"><img src="https://github.com/dario-loi.png" width="19%"><br><p style="font-size: 10px"><b>Dario Loi</b></p></a></td>
     <td align="center"><a href="https://github.com/u-siri-ous"><img src="https://github.com/u-siri-ous.png" width="19%"><br><p style="font-size: 10px"><b>Siria Sannino</b></p></a></td>
     <td align="center"><a href="https://github.com/RoxyDiya"><img src="https://github.com/RoxyDiya.png" width="19%"><br><p style="font-size: 10px"><b>Rokshana Ahmed</b></p></a></td>
+    
   </tr>
 </table>
