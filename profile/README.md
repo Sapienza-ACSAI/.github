@@ -55,7 +55,7 @@ The idea behind this whole system of repositories is to make each repository ind
   <tr>
     <td align="center">Programming 2<br><sub><i>prof. Cenciarelli</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2">Programming-2</a></td>
-    <td align="center">N/A</td>
+    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Computer Architecture 2<br><sub><i>prof. Mei</i></sub></td>
