@@ -29,12 +29,12 @@ The idea behind this whole system of repositories is to make each repository ind
     <td rowspan="9"><b>1st Year</b></td>
     <td rowspan="4"><sub>Semester 1</sub></td>
     <td align="center">Computer Architecture<br><sub><i>prof. De Sensi</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture">Computer-Architecture</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture">Computer Architecture</a></td>
     <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Linear Algebra<br><sub><i>prof. Zabad</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Linear-Algebra">Linear-Algebra</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Linear-Algebra">Linear Algebra</a></td>
     <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td align="center">Computer Architecture 2<br><sub><i>prof. Mei</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture-2">Computer-Architecture-2</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture-2">Computer Architecture 2</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -86,12 +86,12 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td align="center">Systems and Networking U1&2<br><sub><i>prof. Tolomei & prof. Bartolini</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Systems-And-Networking-U1">Systems-And-Networking</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/Systems-And-Networking-U1">Systems and Networking</a></td>
     <td align="center"><a href="https://github.com/dario-loi"><img src="https://github.com/dario-loi.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Data Management and Analysis U1<br><sub><i>prof. Perelli</i></sub></td>
-    <td rowspan="2" align="center"><a href="https://github.com/Sapienza-ACSAI/">Data-Managment-And-Analysis</a></td>
+    <td rowspan="2" align="center"><a href="https://github.com/Sapienza-ACSAI/">Data Management and Analysis</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -101,12 +101,12 @@ The idea behind this whole system of repositories is to make each repository ind
   </tr>
   <tr>
     <td align="center">Artificial Intelligence and Machine Learning U1&2<br><sub><i>prof. Di Ciccio & prof. Masi</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">AI-And-ML</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">AI and ML</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
     <td align="center">AI Lab: Computer Vision and NLP<br><sub><i>prof. Pannone</i></sub></td>
-    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">AI-Lab</a></td>
+    <td align="center"><a href="https://github.com/Sapienza-ACSAI/">AI Lab</a></td>
     <td align="center">N/A</td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ The idea behind this whole system of repositories is to make each repository ind
 
 ## Can I contribute somehow?
 
-Of course! Any help would be greatly appreciated. Just contact us on Discord or Telegram (links are on the buttons on top of the page)!
+Of course! Any help would be greatly appreciated. Just contact us on Discord or Telegram (links are on the buttons at the top of the page)!
 
 ## Who is actually contributing?
 
