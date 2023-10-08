@@ -9,9 +9,9 @@
 
 ## What are these repos about?
 
-The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course at [Sapienza](https://www.uniroma1.it). The materials collected in the repos, for the time being, will only be notes from students and **won't include any material given by the professors**. Once we figure out how to manage that type of content, we'll post an update. Mind that this repository is not meant as a replacement for the course; this is only a collection of useful materials (like notes, solved exercises, etc.) that can be helpful while studying. Each course should be followed, as we don't encourage students to study only from these materials, nor do we aim to replace the work done by the professors.
+The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course at [Sapienza](https://www.uniroma1.it). The materials collected in the repos, for the time being, will only be notes from students and **won't include any material given by the professors**. Once we figure out how to manage that type of content, we'll post an update. Mind that this repository is not meant as a replacement for the course; this is only a collection of useful materials (like notes, solved exercises, etc.) that can be helpful while studying. Each course should be followed, as we don't encourage students to study from these materials alone, nor do we aim to replace the work done by any of the professors.
 
-All the repos are under the `MIT License`: they can be forked and modified, with the only constraint of crediting this organization and the original repo. If you want to know how to contribute to this repo, below is a section talking about it.
+All the repos are under the `MIT License`: they can be forked and modified, with the only constraint of crediting this organization and the original repo. If you want to know how to contribute to this repo, the section below will talk about this.
 
 ## Repositories syllabus
 
@@ -30,7 +30,7 @@ The idea behind this whole system of repositories is to make each repository ind
     <td rowspan="4"><sub>Semester 1</sub></td>
     <td align="center">Computer Architecture<br><sub><i>prof. De Sensi</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Computer-Architecture">Computer Architecture</a></td>
-    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"></a></td>
+    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"></a></td><td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Linear Algebra<br><sub><i>prof. Zabad</i></sub></td>
