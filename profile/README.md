@@ -35,7 +35,7 @@ The idea behind this whole system of repositories is to make each repository ind
   <tr>
     <td align="center">Linear Algebra<br><sub><i>prof. Zabad</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Linear-Algebra">Linear Algebra</a></td>
-    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
+    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td><td align="center"><a href="https://github.com/RoxyDiya"><img src="https://github.com/RoxyDiya.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Programming<br><sub><i>prof. Mancini & prof. Spognardi</i></sub></td>
