@@ -1,5 +1,5 @@
 <h1 align="center">ACSAI's Repositories</h1>
-<p align="center"><i>A group of repositories made by the students, for the students</i></p>
+<p align="center"><i>A repository system made by the students, for the students</i></p>
 <div align="center">
   <a class="link" href="https://t.me/appliedCS_AI"><img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/appliedCS_AI"/></a>
   <a class="link" href="https://discord.gg/vekTABg4Aj"><img src="https://img.shields.io/badge/-discord-5e57ca?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/vekTABg4Aj"/></a>
@@ -116,9 +116,9 @@ The underlying concept of this repository system is to establish the independenc
   </tr>
 </table>
 
-## Can I contribute somehow?
+## Can I contribute?
 
-Of course! Any help would be greatly appreciated. Just contact us on Discord or Telegram (links are on the buttons at the top of the page)!
+Yes, your contribution is most certainly welcome. Please feel free to get in touch with us through Email, Discord or Telegram (accessible via the links provided at the top of this page).
 
 ## Who is actually contributing?
 
