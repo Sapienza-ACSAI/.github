@@ -77,7 +77,7 @@ The idea behind this whole system of repositories is to make each repository ind
     <td rowspan="4"><sub>Semester 1</sub></td>
     <td align="center">Calculus 2<br><sub><i>prof. Zabad</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Calculus-2">Calculus 2</a></td>
-    <td align="center">N/A</td>
+    <td align="center"><a href="https://github.com/RoxyDiya"><img src="https://github.com/RoxyDiya.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Probability<br><sub><i>prof. Bertini & prof. Silvestri</i></sub></td>
