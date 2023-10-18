@@ -9,13 +9,13 @@
 
 ## What are these repos about?
 
-The concept behind this collection of repos is to help any student that follows the [ACSAI](https://acsai.di.uniroma1.it/) course at [Sapienza](https://www.uniroma1.it). The materials collected in the repos, for the time being, will only be notes from students and **won't include any material given by the professors**. Once we figure out how to manage that type of content, we'll post an update. Mind that this repository is not meant as a replacement for the course; this is only a collection of useful materials (like notes, solved exercises, etc.) that can be helpful while studying. Each course should be followed, as we don't encourage students to study from these materials alone, nor do we aim to replace the work done by any of the professors.
+Our goal is to help students in the [ACSAI](https://acsai.di.uniroma1.it/) course at [Sapienza](https://www.uniroma1.it). Keep in mind that this repository is not a replacement for the lectures; this is only a collection of useful materials (notes, answers to exercises, and other materials) that will help you study. We believe that lectures should be followed and we don't encourage students to study from the material posted alone, nor do we aim to replace the work done by any of the professors.
 
-All the repos are under the `MIT License`: they can be forked and modified, with the only constraint of crediting this organization and the original repo. If you want to know how to contribute to this repo, the section below will talk about this.
+All the repositories are under the `MIT License`: they can be forked and modified, with the only constraint of crediting this organization and the original repo. If you want to know how to contribute to this repo, the section below will talk about this.
 
 ## Repositories syllabus
 
-The idea behind this whole system of repositories is to make each repository independent from the others since each repository holds all the contents relative to one subject. We are putting here the "**syllabus**" of the repositories (it's just a summary of all the repositories, with relative links to them). This is to avoid confusion while navigating through the profile. Here below there is a table with all the subjects listed in the [course page](https://corsidilaurea.uniroma1.it/it/corso/2023/30786/cds) (the corresponding professors are updated up to the academic year **2022/2023**):
+The underlying concept of this repository system is to establish the independence of each repository. This approach ensures that each repository exclusively contains content related to a specific subject. Presented here is the **syllabus** of these repositories, essentially serving as a concise summary of all the repositories, complete with relevant hyperlinks. This approach has been adopted to enhance the clarity of navigation within the profile. Below, you will find a table featuring all the subjects that are listed on the [course page](https://corsidilaurea.uniroma1.it/it/corso/2023/30786/cds) Please note that the corresponding professors have been updated as of the academic year **2022/2023**.
 
 <table align="center">
   <tr>
