@@ -116,6 +116,10 @@ The underlying concept of this repository system is to establish the independenc
   </tr>
 </table>
 
+## Other Resources
+
+[Click here]([https://acsai.di.uniroma1.it/](https://github.com/Sapienza-ACSAI/Other-Resources)) to check out some extra resources that have helped students in the past.
+
 ## Can I contribute?
 
 Yes, your contribution is most certainly welcome. Please feel free to get in touch with us through Email, Discord or Telegram (accessible via the links provided at the top of this page).
