@@ -15,7 +15,7 @@ All the repositories are under the `MIT License`: they can be forked and modifie
 
 ## Repositories syllabus
 
-The underlying concept of this repository system is to establish the independence of each repository. This approach ensures that each repository exclusively contains content related to a specific subject. Presented here is the **syllabus** of these repositories, essentially serving as a concise summary of all the repositories, complete with relevant hyperlinks. This approach has been adopted to enhance the clarity of navigation within the profile. Below, you will find a table featuring all the subjects that are listed on the [course page](https://corsidilaurea.uniroma1.it/it/corso/2023/30786/cds) Please note that the corresponding professors have been updated as of the academic year **2022/2023**.
+The underlying concept of this repository system is to establish the independence of each repository. This approach ensures that each repository exclusively contains content related to a specific subject. Presented here is the **syllabus** of these repositories, essentially serving as a concise summary of all the repositories, complete with relevant hyperlinks. This approach has been adopted to enhance the clarity of navigation within the profile. Below, you will find a table featuring all the subjects that are listed on the [course page](https://corsidilaurea.uniroma1.it/it/corso/2023/30786/cds). Please be aware that the material and information provided below have been updated to reflect the academic year **2022/2023**.
 
 <table align="center">
   <tr>
