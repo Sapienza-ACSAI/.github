@@ -40,7 +40,7 @@ The underlying concept of this repository system is to establish the independenc
   <tr>
     <td align="center">Programming<br><sub><i>Prof. Mancini & Prof. Spognardi</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming">Programming</a></td>
-    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
+    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a> <a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Calculus (Part 1)<br><sub><i>Prof. Birindelli</i></sub></td>
