@@ -55,7 +55,7 @@ The underlying concept of this repository system is to establish the independenc
   <tr>
     <td align="center">Programming 2<br><sub><i>Prof. Cenciarelli</i></sub></td>
     <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2">Programming-2</a></td>
-    <td align="center"><a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
+    <td align="center"><a href="https://github.com/ElBi21"><img src="https://github.com/ElBi21.png" width="14%"></a> <a href="https://github.com/NilAtabey"><img src="https://github.com/NilAtabey.png" width="14%"></a></td>
   </tr>
   <tr>
     <td align="center">Computer Architecture 2<br><sub><i>Prof. Mei</i></sub></td>
